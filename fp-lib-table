@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "rpi_hat")(type "KiCad")(uri "${KIPRJMOD}/libs/RPi_Hat.pretty")(options "")(descr ""))
+  (lib (name "eurorack")(type "KiCad")(uri "${KIPRJMOD}/libs/4ms-kicad-lib/footprints")(options "")(descr ""))
+  (lib (name "eurorack3d")(type "KiCad")(uri "${KIPRJMOD}/libs/4ms-kicad-lib/3dmodels")(options "")(descr ""))
+  (lib (name "eurorackp3d")(type "KiCad")(uri "${KIPRJMOD}/libs/4ms-kicad-lib/packages3d")(options "")(descr ""))
+  (lib (name "div")(type "KiCad")(uri "${KIPRJMOD}/libs")(options "")(descr ""))
+)
