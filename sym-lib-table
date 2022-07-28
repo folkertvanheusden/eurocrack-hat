@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "rpi_hat")(type "Legacy")(uri "${KIPRJMOD}/libs/RPi_Hat_Template/RPi_Hat.lib")(options "")(descr ""))
   (lib (name "eurorack_con")(type "KiCad")(uri "${KIPRJMOD}/libs/4ms-kicad-lib/symbols/4ms_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "div2")(type "Legacy")(uri "${KIPRJMOD}/libs/eurocad/eurocad.lib")(options "")(descr ""))
 )
